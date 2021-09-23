@@ -1,0 +1,22 @@
+body {
+    background: lightblue;
+    margin: 4px;
+    padding: 1px;
+}
+#mean {
+    background: #91b491;
+    margin: 0px;
+    padding: 0px;
+}
+h1 {
+    text-align: center;
+    font: bold 20px tahoma;
+}
+h2 {
+    font: bold 20px tahoma; 
+}
+#miss {
+    text-align: center;
+    padding: 20px;
+    border-top: 20px solid green;
+}
